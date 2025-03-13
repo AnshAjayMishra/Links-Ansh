@@ -55,7 +55,7 @@ const links = [
   {
     icon: <SiInstagram className="text-zinc-300 w-6 h-6" />,
     title: "Instagram",
-    url: "https://instagram.com/_iam_nash/",
+    url: "https://instagram.com/explore.ansh/",
   },
   {
     icon: <SiSnapchat className="text-zinc-300 w-6 h-6" />,
