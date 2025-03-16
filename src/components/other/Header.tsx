@@ -9,6 +9,7 @@ import { FiBook } from "react-icons/fi";
 import Footer from "@/components/other/Footer";
 import {
   SiBehance,
+  SiSpotify,
   SiCodesandbox,
   SiDevdotto,
   SiDiscord,
@@ -32,6 +33,7 @@ const links = [
     title: "Blog",
     url: "#",
   },
+  
   {
     icon: <SiYoutube className="text-zinc-300 w-6 h-6" />,
     title: "YouTube",
@@ -47,11 +49,7 @@ const links = [
     title: "LinkedIn",
     url: "https://www.linkedin.com/in/anshajaymishra",
   },
-  {
-    icon: <SiSteam className="text-zinc-300 w-6 h-6" />,
-    title: "Steam",
-    url: "https://steamcommunity.com/id/AnshAjayMishra/",
-  },
+  
   {
     icon: <SiInstagram className="text-zinc-300 w-6 h-6" />,
     title: "Instagram",
@@ -66,6 +64,16 @@ const links = [
     icon: <SiGithub className="text-zinc-300 w-6 h-6" />,
     title: "GitHub",
     url: "https://github.com/AnshAjayMishra",
+  },
+  {
+    icon: <SiSteam className="text-zinc-300 w-6 h-6" />,
+    title: "Steam",
+    url: "https://steamcommunity.com/id/AnshAjayMishra/",
+  },
+  {
+    icon: <SiSpotify className="text-zinc-300 w-6 h-6" />,
+    title: "Spotify",
+    url: "https://open.spotify.com/user/uh9483i0aqgaqaxspc8yih3g3",
   },
   {
     icon: <SiDiscord className="text-zinc-300 w-6 h-6" />,
