@@ -55,6 +55,11 @@ const links = [
     title: "Instagram",
     url: "https://instagram.com/explore.ansh/",
   },
+   {
+    icon: <SiX className="text-zinc-300 w-6 h-6" />,
+    title: "X",
+    url: "https://x.com/AnshAjayMishra",
+  },
   {
     icon: <SiSnapchat className="text-zinc-300 w-6 h-6" />,
     title: "Snapchat",
@@ -66,24 +71,19 @@ const links = [
     url: "https://github.com/AnshAjayMishra",
   },
   {
-    icon: <SiSteam className="text-zinc-300 w-6 h-6" />,
-    title: "Steam",
-    url: "https://steamcommunity.com/id/AnshAjayMishra/",
-  },
-  {
     icon: <SiSpotify className="text-zinc-300 w-6 h-6" />,
     title: "Spotify",
     url: "https://open.spotify.com/user/uh9483i0aqgaqaxspc8yih3g3",
   },
-  {
+   {
     icon: <SiDiscord className="text-zinc-300 w-6 h-6" />,
     title: "Discord",
     url: "https://discordapp.com/users/428522595558883348",
   },
   {
-    icon: <SiX className="text-zinc-300 w-6 h-6" />,
-    title: "X",
-    url: "https://x.com/AnshAjayMishra",
+    icon: <SiSteam className="text-zinc-300 w-6 h-6" />,
+    title: "Steam",
+    url: "https://steamcommunity.com/id/AnshAjayMishra/",
   },
   {
     icon: <SiStackoverflow className="text-zinc-300 w-6 h-6" />,
