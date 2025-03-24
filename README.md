@@ -42,5 +42,5 @@ This project is licensed under the MIT License.
 
 ---
 
-By **Ansh Ajay Mishra**
+By: **Ansh Ajay Mishra**
 
